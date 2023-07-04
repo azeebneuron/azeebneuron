@@ -1,5 +1,10 @@
 ## Hi there! I'm Rahul 👋
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rahul-1337&show_icons=true&theme=highcontrast"/>
+### I code and I game
+_📚 pursuing bachelor's in Data Science <br>
+_🤖 AI and ML enthusiast <br>
+_🌱 here to learn, grow and contribute <br>
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rahul-1337&show_icons=true&theme=highcontrast"/> <br>
 
 ### Languages and Tools
 
