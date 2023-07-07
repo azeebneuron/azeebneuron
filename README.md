@@ -1,8 +1,12 @@
+![banner](https://github.com/Rahul-1337/Rahul-1337/assets/137313478/1cf2a767-e67a-40cc-ba0d-a0bc435a7bc5)
 ## Hi there! I'm Rahul 👋
 ### I code and I game
 _📚 pursuing bachelor's in Data Science <br>
 _🤖 AI and ML enthusiast <br>
 _🌱 here to learn, grow and contribute <br>
+_📝 I regularly write articles on [rahul1337.hashnode.dev](rahul1337.hashnode.dev) <br>
+_👨‍💻 All of my projects are available at [rahulsingh.net](rahulsingh.net)
+
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rahul-1337&show_icons=true&theme=highcontrast"/> <br>
 
@@ -25,7 +29,6 @@ _🌱 here to learn, grow and contribute <br>
 
 <br />
 <br />
-
 
 
 
