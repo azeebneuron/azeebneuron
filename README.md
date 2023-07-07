@@ -1,5 +1,7 @@
-![banner](https://github.com/Rahul-1337/Rahul-1337/assets/137313478/1cf2a767-e67a-40cc-ba0d-a0bc435a7bc5)
+![FlimsyImperturbableDavidstiger-size_restricted](https://github.com/Rahul-1337/Rahul-1337/assets/137313478/5e740ac0-64af-49a5-a32f-1cf91548e519)
+
 ## Hi there! I'm Rahul 👋
+
 ### I code and I game
 _📚 pursuing bachelor's in Data Science <br>
 _🤖 AI and ML enthusiast <br>
