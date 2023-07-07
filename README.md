@@ -5,10 +5,14 @@ _📚 pursuing bachelor's in Data Science <br>
 _🤖 AI and ML enthusiast <br>
 _🌱 here to learn, grow and contribute <br>
 _📝 I regularly write articles on [rahul1337.hashnode.dev](rahul1337.hashnode.dev) <br>
-_👨‍💻 All of my projects are available at [rahulsingh.net](rahulsingh.net)
+_👨‍💻 All of my projects are available at [rahulsingh.net](rahulsingh.net) <br>
+<br>
 
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rahul-1337&show_icons=true&theme=highcontrast"/> <br>
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rahul-1337&show_icons=true&theme=highcontrast"/> <br> 
+
+
 
 ### Languages and Tools
 
