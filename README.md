@@ -4,7 +4,7 @@
 _📚 pursuing bachelor's in Data Science <br>
 _🤖 AI and ML enthusiast <br>
 _🌱 here to learn, grow and contribute <br>
-_📝 I regularly write articles on [rahul1337.hashnode.dev](rahul1337.hashnode.dev) <br>
+_📝 I regularly write articles on [rahul1337.hashnode.dev](https://hashnode.com/@rahul1337) <br>
 _👨‍💻 All of my projects are available at [rahulsingh.net](rahulsingh.net) <br>
 <br>
 
