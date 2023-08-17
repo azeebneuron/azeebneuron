@@ -11,7 +11,7 @@ _👨‍💻 All of my projects are available at [rahulsingh.net](rahulsingh.net
 <br>
 
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rahul-1337&show_icons=true&theme=highcontrast"/> <br>
+
 
 
 
