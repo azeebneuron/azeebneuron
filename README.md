@@ -41,7 +41,7 @@ _👨‍💻 All of my projects are available at [rahulsingh.xyz](https://www.ra
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-896ff0?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3D4CFF?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-003A57?style=for-the-badge&logo=pillow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3D1B?style=for-the-badge&logo=opencv&logoColor=white)
