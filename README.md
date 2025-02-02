@@ -7,7 +7,7 @@ _🔭 I’m currently working on building a GPT model from scratch <br>
 _👯 I’m looking to collaborate on AI Projects, computer vision, and natural language processing <br>
 _🌱 I’m currently learning about Neural Networks, Transformers, and advanced deep learning architectures<br>
 _⚡ Fun fact: I didn't watch a single lecture for web dev<br>
-_👨‍💻 All of my projects are available at [rahulsingh.xyz](rahulsingh.xyz) <br>
+_👨‍💻 All of my projects are available at [rahulsingh.xyz](https://www.rahulsingh.xyz/) <br>
 <br>
 
 
