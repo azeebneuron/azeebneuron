@@ -2,11 +2,11 @@
 
 ## Hi there! I'm Rahul 👋
 
-### I code and I game
-_📚 pursuing bachelor's in Data Science <br>
-_🤖 AI and ML enthusiast <br>
-_🌱 here to learn, grow and contribute <br>
-_📝 I regularly write articles on [rahul1337.hashnode.dev](https://hashnode.com/@rahul1337) <br>
+### I am a jack of all trades and master of some
+_🔭 I’m currently working on building a GPT model from scratch <br>
+_👯 I’m looking to collaborate on AI Projects, computer vision, and natural language processing <br>
+_🌱 I’m currently learning about Neural Networks, Transformers, and advanced deep learning architectures<br>
+_⚡ Fun fact: I didn't watch a single lecture for web dev<br>
 _👨‍💻 All of my projects are available at [rahulsingh.xyz](rahulsingh.xyz) <br>
 <br>
 
