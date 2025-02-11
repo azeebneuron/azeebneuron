@@ -15,12 +15,8 @@ _🔭 I’m currently working on building a GPT model from scratch <br>
 _👯 I’m looking to collaborate on AI Projects, computer vision, and natural language processing <br>
 _🌱 I’m currently learning about Neural Networks, Transformers, and advanced deep learning architectures<br>
 _⚡ Fun fact: I didn't watch a single lecture for web dev<br>
-_👨‍💻 All of my projects are available at [rahulsingh.xyz](https://www.rahulsingh.xyz/) <br>
+_👨‍💻 All of my projects will be available at [rahulsingh.xyz](https://www.rahulsingh.xyz/) (Hopefully) <br>
 <br>
-
-
-
-
 
 #### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,6 +61,7 @@ _👨‍💻 All of my projects are available at [rahulsingh.xyz](https://www.ra
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 
