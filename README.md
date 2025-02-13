@@ -3,6 +3,7 @@
 ## Hi there! I'm Rahul 👋
 
 [![Website](https://img.shields.io/badge/Portfolio-rahulsingh.xyz-blue?style=flat-square)](https://rahulsingh.xyz)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/azeebneuron)
+![](https://komarev.com/ghpvc/?username=azeebneuron&style=flat-square)
 
 
 
