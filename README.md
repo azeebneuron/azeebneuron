@@ -9,7 +9,7 @@
 
 ### I am a jack of all trades and master of some
 
-![Running cartoon](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
+<!--- ![Running cartoon](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif) --->
 
 
 _🔭 I’m currently working on building a GPT model from scratch <br>
